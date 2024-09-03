@@ -1,4 +1,6 @@
-﻿# GalArc
+# GalArc
+
+**ATTENTION:This branch is DEPRECATED.**
 
 Galgame Archive Tool.
 
